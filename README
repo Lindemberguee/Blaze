@@ -1,0 +1,62 @@
+# Blaze Double - Um Jogo de Análise de Tendências 🎲
+
+![Blaze Double Logo](https://blaze-4.com/static/media/logo-icon.de8b3b08.svg)
+
+**Blaze Double** é um jogo Python que utiliza análise de tendências para fazer previsões em um ambiente de roleta virtual. Este projeto é destinado a fins educacionais e de entretenimento, e é ideal para aqueles interessados em aprender sobre análise de dados, análise de tendências e gerenciamento de registros.
+
+## Funcionalidades Principais 🚀
+
+### Análise de Tendências
+- Utiliza o histórico de resultados para identificar tendências nas cores da roleta.
+- Determina a cor mais provável para a próxima rodada.
+
+### Registro de Dados
+- Coleta dados em tempo real de uma API de jogos de roleta virtual.
+- Armazena e processa esses dados para análise.
+
+### Estatísticas do Jogo
+- Registra acertos e erros nas previsões.
+- Calcula a precisão das previsões ao longo do tempo.
+
+### Opções Personalizáveis
+- Configure o valor da aposta, o limite de tempo, o saldo inicial e muito mais.
+
+## Requisitos de Instalação 🛠️
+
+Certifique-se de ter o Python 3.x instalado em seu sistema. Você também pode precisar instalar as dependências do projeto usando o seguinte comando:
+
+
+## Uso do Jogo 🎮
+
+1. Clone o repositório para o seu sistema local.
+2. Execute o arquivo `main.py` para iniciar o jogo.
+3. Acompanhe as análises de tendências, faça previsões e veja como seu saldo se comporta ao longo do tempo.
+
+## Configurações Personalizadas ⚙️
+
+Você pode personalizar o comportamento do jogo editando os parâmetros no arquivo `main.py`. Por exemplo, você pode ajustar o valor da aposta, o limite de tempo, o saldo inicial e muito mais.
+
+## Registro de Eventos 📊
+
+O jogo registra todos os eventos importantes, incluindo acertos, erros e tendências detectadas. Os registros são salvos em arquivos de log separados para referência futura.
+
+## Contribuição 🤝
+
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou relatar problemas. Se você tiver ideias para melhorias ou novas funcionalidades, ficaremos felizes em ouvir.
+
+## Autores 🧑‍💻
+
+- [José Lindembergue](https://github.com/Lindemberguee) - Desenvolvedor Principal
+
+## Licença 📝
+
+Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
+## Agradecimentos 🙏
+
+- Agradecemos a todos que contribuíram para este projeto.
+- Inspirado por jogos de análise de tendências reais.
+
+---
+
+Divirta-se jogando o **Blaze Double** e boa sorte em suas análises de tendências! 🎉
